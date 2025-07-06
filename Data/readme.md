@@ -1,1 +1,3 @@
-
+# Assignment 2: Submitting Data Sources 
+## LA County Demographic details and Below Poverty Levels 
+I am using dempgraphic details for [LA County Cenus](https://data.census.gov/profile/Los_Angeles_County,_California?g=050XX00US06037) and [Poverty Status from Census](https://data.census.gov/table/ACSST5Y2023.S1701)I will be using this data to analyze the relationship between eduucation levels and below poverty data. By using demogrpahic data from Census there are different socioeconmic factors that can also be analyzed like citizrnship status, race, income, etc. I will be using Poverty status within the last 12 months data from Cenus to see the relationship between educational levels with poverty status in LA County. 
