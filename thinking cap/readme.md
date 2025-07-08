@@ -1,9 +1,6 @@
 # Week 1, Assignment 3
-## For this week's thinking cap I read the article [Evaluating socioeconomic and racial differences in traffic-related metrics in the United States using a GIS approach](https://www.researchgate.net/profile/Jianping-Xue/publication/230632827_Evaluating_socioeconomic_and_racial_differences_in_traffic-related_metrics_in_the_United_States_using_a_GIS_approach/links/540f4b6f0cf2d8daaad0a0a5/Evaluating-socioeconomic-and-racial-differences-in-traffic-related-metrics-in-the-United-States-using-a-GIS-approach.pdf).  
+## For this week's thinking cap I read the article titled: [Poverty in the United States: 2012](https://ecommons.cornell.edu/server/api/core/bitstreams/48fdfbc0-2ae9-4b17-a9a1-0ece164d3bb6/content)
 
-Summary 
-
-How were the graphs created? 
-
+The report reviewed is a Congressional Report for Congress, that is prepared for members and committees of Congress. The purpose for the report is to provide recommendations based on the Supplemental Poverty Measure (SPM) designed to implement the National Academy of Sciences recommendations for poverty in the United States of American. Hence, the report identifies the “official” definition of poverty in the US and the identified groups which delves into the definition of poverty in the United States. Per the report, individuals are considered poor if their family’s countable money income is below the corresponding poverty threshold. The report identifies the different demographic factors that establishes a higher rate of poverty. This includes racial minorities, nativity status, under aged children, education levels, seniors, and disability. This article relates to my topic by discussing the relationship between poverty and educational levels. The report utilizes several charts and visuals to represent the data that is being presented in a concise manner that is easy to understand. The data was obtained from the Census survey that provides a population count and demographic data for the nation. 
 
 
